@@ -20,3 +20,10 @@ main {
     height: 100vh;
     width: 75%;
 }
+.store-list .heading {
+    background: #ff6900;
+    color: #fff;
+}
+.store-list .heading h2 {
+    padding: 1rem;
+}
