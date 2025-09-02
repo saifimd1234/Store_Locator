@@ -55,3 +55,7 @@ main {
     color: #ff6900;
     font-weight: 700;
 }
+.store-list .shop-item p {
+    font-size: 14px;
+    color: #404040;
+}
