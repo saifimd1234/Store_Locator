@@ -37,3 +37,7 @@ main {
     background: #ff6900;
     border-radius: 0;
 }
+.store-list ul.list {
+    padding: 0 1rem;
+    list-style-type: none;
+}
