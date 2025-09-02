@@ -27,3 +27,13 @@ main {
 .store-list .heading h2 {
     padding: 1rem;
 }
+::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
+    border-left: 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+::-webkit-scrollbar-thumb {
+    background: #ff6900;
+    border-radius: 0;
+}
