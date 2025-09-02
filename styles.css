@@ -41,3 +41,8 @@ main {
     padding: 0 1rem;
     list-style-type: none;
 }
+.store-list .shop-item {
+    margin: 1rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 1rem;
+}
