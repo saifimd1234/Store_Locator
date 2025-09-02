@@ -49,3 +49,9 @@ main {
 .store-list li:last-child .shop-item {
     border: none;
 }
+.store-list .shop-item a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #ff6900;
+    font-weight: 700;
+}
